@@ -1,0 +1,1 @@
+# First-Ionic-with-NavPush-and-push-method-implementation
